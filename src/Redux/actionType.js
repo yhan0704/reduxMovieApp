@@ -1,0 +1,1 @@
+export const FECTHED_MOVIE = "FECTHED_MOVIE";
